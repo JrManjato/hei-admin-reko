@@ -1,0 +1,1 @@
+export type TRekoHandler = {image: string,  cameraOrInput: boolean};
